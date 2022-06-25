@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek123-code&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek123-code" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/not_at_all_dull" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/not_at_all_dull?logo=twitter&style=for-the-badge" alt="https://twitter.com/not_at_all_dull" /></a> </p>
+<p align="left"> <a href="https://twitter.com/not_at_all_dull" target="blank"><img src="https://img.shields.io/twitter/follow/not_at_all_dull?logo=twitter&style=for-the-badge" alt="not_at_all_dull" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
