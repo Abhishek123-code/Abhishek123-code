@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Cloud computing,Web Development,Flutter**
+- 💬 Ask me about **Cloud computing,Web Development,Flutter,Open Source**
 
 - 📫 How to reach me **aojha6159@gmail.com**
 
