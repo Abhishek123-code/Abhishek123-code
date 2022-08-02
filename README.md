@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aojha6159@gmail.com**
 
-- ⚡ Fun fact **I watch Anime for motivation.**
+- ⚡ Fun fact **I watch Anime for relaxation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
